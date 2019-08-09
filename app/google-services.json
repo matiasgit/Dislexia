@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "794076298376",
+    "firebase_url": "https://dislexia-3ac2a.firebaseio.com",
+    "project_id": "dislexia-3ac2a",
+    "storage_bucket": "dislexia-3ac2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794076298376:android:dc3e1844809ebbb0",
+        "android_client_info": {
+          "package_name": "dislexia.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794076298376-6t2ug59bfomno7ks7n6oiqeajdn1d8qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dislexia.app",
+            "certificate_hash": "fdddc4bcd75a4ab2908c5548a9e1cc1649e8fa43"
+          }
+        },
+        {
+          "client_id": "794076298376-oq2v5ki7b3f000uq8i3o31o5oe7eak9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_xLvYx6zgpFXT6migK0Kgh0_eWFwkHyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794076298376-oq2v5ki7b3f000uq8i3o31o5oe7eak9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
