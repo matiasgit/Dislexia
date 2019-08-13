@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Dislexia</string>
+    <string name="nombreUsuario">Usuario</string>
+    <string name="password">Contrasena</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="registrar">Registrar</string>
+    <string name="nombrePersona">Nombre</string>
+    <string name="apellidoPersona">Apellido</string>
+    <string name="dni">Dni</string>
+    <string name="edad">Edad</string>
+    <string name="title_activity_registrar">Registrar</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="sexo">Sexo</string>
+    <string name="especialista">Especialista?</string>
+    <string name="especialidad">Especialidad</string>
+    <string name="matricula">Matricula</string>
 </resources>
